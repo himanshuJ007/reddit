@@ -5,7 +5,7 @@ considerations:
 
 1. **Don't use GitHub issues for feature requests**.
 If you have a feature request, please submit it to
-[/r/ideasfortheadmins](http://www.reddit.com/r/ideasfortheadmins) instead.
+[/r/ideasfortheadmins](http://www.reddit.com/r/ideasfortheadmins) instead off.
 Please note that while we do subscribe to /r/ideasfortheadmins, the presence
 of a response or lack thereof has no indication as to whether the idea will
 actually get implemented.
